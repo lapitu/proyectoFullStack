@@ -1,0 +1,154 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+html{
+	font-size: 16px;
+	background-color: #FEFEF4;
+}
+
+
+#logo{
+	height: 60px;
+	width: 60px;
+}
+
+.img-fluid{ 
+	width: 100%;
+    height: 600px!important;
+}
+
+.navbar a{
+	color: #015249!important;
+}
+
+.navbar a:hover{
+	text-decoration: underline
+}
+
+.navbar-brand{
+	font-family: 'Homemade Apple', cursive;
+	font-size: 2.5rem!important;
+}
+
+.background{
+	background-image: url('../img/estudiante.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+footer p{ 
+	font-size: 0.9rem;
+}
+
+footer{
+	background-color: #015249;
+	padding: 3%;
+}
+
+footer p, footer h4{
+	color: #FEFEF4;
+}
+
+.nosotros{
+	background-color: #FEFEF4;
+	padding: 5%;
+}
+
+.xqestudiarit_tit{
+	padding: 5%;
+	background-image: url('../img/codigo.jpg');
+	color: #FEFEF4;
+}
+
+.xqestudiarit{
+	background-color: #FEFEF4;
+	padding: 5%;
+}
+
+#redes_soc{
+	font-size: 1.5rem;
+
+}
+
+.iconito{
+	color: #FEFEF4;
+}
+
+.iconito_footer:hover{
+	color: orangered;
+}
+
+#redes_soc li{
+	display: inline-block;
+	float: right
+}
+
+.pipa{
+	margin-top: 150px;
+}
+
+.oliver a:hover{
+	background: lightblue;
+	transition: all 2s ease-in-out;
+}
+
+#img_cursos{
+	background-image: url('../img/img_cursos.jpg');
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover!important;
+}
+
+#cursos{
+	color: #FEFEF4;
+	background: #015249;
+	font-size: 4rem;
+	padding-right: 15px;
+	border-radius: 0 20px 20px 0;
+}
+
+.col_cursos{
+	top: 200px;
+	width: 300px;
+	position: relative;
+	text-align: right;
+}
+
+#passHelpBlock{
+	font-size: 0.8rem;
+	color: red!important;
+	float: right;
+}
+
+.btn_incluite{
+    display: inline-block;
+    line-height: 40px;
+    height: 40px;
+    padding: 0 18px;
+    font-size: 15px;
+    background-color: #015249;
+    color: FEF1E8;
+    font-family: 'Homemade Apple', cursive;
+}
+
+.datos_cur{
+	font-size: 0.8rem;
+}
+
+#tit_cur_pres{
+	padding-top: 100px;
+	padding-bottom: 50px;
+
+	background-color: #FEFEF4;
+}
+
+#sedes{
+	background-color: #FEFEF4;
+}
+
+.cur_inscr{
+	background-color: #FEFEF4
+}

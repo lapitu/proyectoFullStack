@@ -1,0 +1,103 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+html{
+	font-size: 16px;
+	background-color: #F9F5F2;
+}
+
+
+#logo{
+	height: 60px;
+	width: 60px;
+}
+
+.img-fluid{ 
+	width: 100%;
+    height: 600px!important;
+}
+
+.navbar a{
+	color: #015249!important;
+}
+
+.navbar-brand{
+	font-family: 'Homemade Apple', cursive;
+	font-size: 2.5rem!important;
+}
+
+.background{
+	background-image: url('../img/estudiante.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+footer p{ 
+	font-size: 0.9rem;
+}
+
+footer{
+	background-color: #015249;
+	padding: 3%;
+}
+
+footer p, footer h4{
+	color: #F9F5F2;
+}
+
+.nosotros{
+	background-color: #F9F5F2;
+	padding: 5%;
+}
+
+#redes_soc{
+	font-size: 1.5rem;
+
+}
+
+#redes_soc li a i::before{
+	color: white;
+}
+
+#redes_soc li{
+	display: inline-block;
+	float: right
+}
+
+.pipa{
+	margin-top: 150px;
+}
+
+.oliver:hover{
+	background: lightblue;
+	transition: all 2s ease-in-out;
+}
+
+#img_cursos{
+	background-image: url('../img/img_cursos.jpg');
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#cursos{
+	color: white;
+	background: #015249;
+	font-size: 4rem;
+	padding-right: 15px;
+	border-radius: 0 20px 20px 0;
+}
+
+.col_cursos{
+	top: 200px;
+	width: 300px;
+	position: relative;
+	text-align: right;
+}
+
+input{
+	margin-left: auto;
+}
